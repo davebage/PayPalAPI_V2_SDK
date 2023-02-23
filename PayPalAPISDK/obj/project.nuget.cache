@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBvLp3twCOTX490nq9deuBOylKXZjgm3R6ghdfu7YH7OHlEvoqi4vjTLbDiXBfTMR/qR5tYlp6cQN0xc+oCy+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\PayPalAPISDK\\PayPalAPISDK\\PayPalAPISDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

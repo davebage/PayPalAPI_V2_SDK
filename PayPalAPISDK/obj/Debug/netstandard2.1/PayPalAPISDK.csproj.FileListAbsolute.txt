@@ -1,0 +1,10 @@
+C:\Development\PayPalAPISDK\PayPalAPISDK\bin\Debug\netstandard2.1\PayPalAPISDK.deps.json
+C:\Development\PayPalAPISDK\PayPalAPISDK\bin\Debug\netstandard2.1\PayPalAPISDK.dll
+C:\Development\PayPalAPISDK\PayPalAPISDK\bin\Debug\netstandard2.1\PayPalAPISDK.pdb
+C:\Development\PayPalAPISDK\PayPalAPISDK\obj\Debug\netstandard2.1\PayPalAPISDK.csproj.AssemblyReference.cache
+C:\Development\PayPalAPISDK\PayPalAPISDK\obj\Debug\netstandard2.1\PayPalAPISDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\PayPalAPISDK\PayPalAPISDK\obj\Debug\netstandard2.1\PayPalAPISDK.AssemblyInfoInputs.cache
+C:\Development\PayPalAPISDK\PayPalAPISDK\obj\Debug\netstandard2.1\PayPalAPISDK.AssemblyInfo.cs
+C:\Development\PayPalAPISDK\PayPalAPISDK\obj\Debug\netstandard2.1\PayPalAPISDK.csproj.CoreCompileInputs.cache
+C:\Development\PayPalAPISDK\PayPalAPISDK\obj\Debug\netstandard2.1\PayPalAPISDK.dll
+C:\Development\PayPalAPISDK\PayPalAPISDK\obj\Debug\netstandard2.1\PayPalAPISDK.pdb
