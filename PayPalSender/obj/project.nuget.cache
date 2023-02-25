@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UnKhPVSrk9ggV2qhcPCQhKtrkyITuwihzkvOSRb3dOT4987f1oTna9c1GCmJWsjdceG00GRXmicCEpZ+9Pn2zw==",
+  "dgSpecHash": "B4Fzy4VQNYF1Iz6AlqLlsQSCTamx8uc9jhh0W7s5K4FGvUqFDDHb7u5QgOlEPCnEAPBSx2fAVJQ1dKLIl1gHAA==",
   "success": true,
-  "projectFilePath": "C:\\Development\\PayPalAPISDK\\PayPalSender\\PayPalSender.csproj",
+  "projectFilePath": "C:\\Development\\Paypal_V2_SDK\\PayPalSender\\PayPalSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
